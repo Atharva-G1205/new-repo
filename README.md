@@ -1,3 +1,3 @@
 # new-repo
 My first repository
-First commit changw
+First commit change
